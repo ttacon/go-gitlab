@@ -9,7 +9,7 @@ A GitLab API client enabling Go programs to interact with GitLab in a simple and
 
 Release v0.2.0 (released on 26-07-2016), is unfortunately backwards incompatible. We 
 understand very well that this will cause some additional work in order to get your
-code working again, but we believe this is a necessary eval to improve functionality
+code working again, but we believe this is a necessary evil to improve functionality
 and fix some use cases (see [GH-29](https://github.com/xanzy/go-gitlab/issues/29) and
 [GH-53](https://github.com/xanzy/go-gitlab/issues/53)).
 
